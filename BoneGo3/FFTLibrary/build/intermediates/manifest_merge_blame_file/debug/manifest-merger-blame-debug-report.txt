@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.google.corp.productivity.specialprojects.android.fft"
+5    android:installLocation="auto"
+6    android:versionCode="1"
+7    android:versionName="1.0" >
+8
+9    <uses-sdk
+10        android:minSdkVersion="7"
+10-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml
+11        android:targetSdkVersion="26" />
+11-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml
+12    <!-- <uses-sdk android:minSdkVersion="7" /> -->
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:9:5-71
+13-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:9:22-68
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:10:5-81
+14-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:10:22-78
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:11:5-66
+15-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:11:22-63
+16    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+16-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:12:5-80
+16-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:12:22-77
+17    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+17-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:13:5-74
+17-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:13:22-72
+18    <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+18-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:14:5-79
+18-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:14:22-76
+19
+20    <application android:allowBackup="true" >
+20-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:16:5-25:19
+20-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:17:9-35
+21        <activity android:name="kr.co.jjnet.angelband.MainActivity" >
+21-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:18:9-24:20
+21-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:19:13-62
+22            <intent-filter>
+22-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:20:13-23:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:21:17-69
+23-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:21:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:22:17-77
+25-->C:\Users\jjnet\AndroidStudioProjects\BoneGo\FFTLibrary\src\main\AndroidManifest.xml:22:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

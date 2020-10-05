@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bonego</string>
+    <string name="tab1">실시간</string>
+    <string name="tab2">이력</string>
+    <string name="tab3">기기</string>
+    <string name="tab4">설정</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="max_DB_range" translatable="false">-150</string>
+    <string name="signal_1_freq1" translatable="false">440.0</string>
+    <string name="signal_1_db1" translatable="false">-6.0</string>
+    <string name="signal_2_freq1" translatable="false">625.0</string>
+    <string name="signal_2_db1" translatable="false">-6.0</string>
+    <string name="signal_2_freq2" translatable="false">1875.0</string>
+    <string name="signal_2_db2" translatable="false">-12.0</string>
+    <string name="tab5">tab5</string>
+    <string name="navigation_tab5">테스트</string>
+    <string name="navigation_tab6">음성인식</string>
+    <string name="push_to_start">PUSH TO START</string>
+    <string name="client_id">9a73bfe1-e57e-4e30-833e-dc469281215c</string>
+    <string name="etri_openasr_n_nhttp_www_etri_re_kr">ETRI OpenASR\n\nhttp://www.etri.re.kr</string>
+    <string name="kakao_app_key">5e303acc68e0c333b7113d00a9a86112</string>
+</resources>
